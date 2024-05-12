@@ -56,9 +56,10 @@ I'm a passionate software developer and tech enthusiast, currently diving into t
 
 Here are some resources I find useful in my learning journey:
 
-- [W3Schools](https://www.w3schools.com/)
-- [Tutorialspoint](https://www.tutorialspoint.com/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [![W3Schools](https://img.shields.io/badge/-W3Schools-green?style=flat-square&logo=w3schools&logoWidth=40)](https://www.w3schools.com/)
+- [![Tutorialspoint](https://img.shields.io/badge/-Tutorialspoint-blue?style=flat-square&logo=tutorialspoint&logoWidth=40)](https://www.tutorialspoint.com/)
+- [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-blue?style=flat-square&logo=geeksforgeeks&logoWidth=40)](https://www.geeksforgeeks.org/)
+
 
 ---
 
