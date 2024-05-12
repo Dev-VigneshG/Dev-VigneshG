@@ -3,6 +3,14 @@
 
 I'm a passionate software developer and tech enthusiast, currently diving into the world of full-stack development.
 
+## 🌟 What I Do
+
+- 🚀 A passionate software developer and tech enthusiast, delving deep into the world of full-stack development.
+- 💼 Actively building my skills and expertise in front-end and back-end technologies.
+- 🌱 Continuously exploring new tools and frameworks to enhance my development capabilities.
+- 💻 Working on exciting projects to apply and solidify my knowledge in web development.
+- 🔍 Always seeking to understand the latest trends and best practices in the tech industry.
+---
 ## About Me
 
 - 🌱 I'm currently learning full-stack development.
