@@ -1,7 +1,7 @@
 <!-- Your Name -->
 # Hi there, I'm Vignesh! 👋
 
-I'm a passionate software developer and tech enthusiast, currently diving into the world of full-stack development.
+I'm a passionate software developer and tech enthusiast, currently diving into the world of full-stack development. My fascination with technology started at a young age, sparked by curiosity and a desire to understand how things work. I've been hooked ever since, constantly exploring new technologies and pushing the boundaries of what I can create.
 
 ## 🌟 What I Do
 
