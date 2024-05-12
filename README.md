@@ -11,7 +11,7 @@ I'm a passionate software developer and tech enthusiast, currently diving into t
 - 💻 Working on exciting projects to apply and solidify my knowledge in web development.
 - 🔍 Always seeking to understand the latest trends and best practices in the tech industry.
 ---
-## About Me
+## 👨‍💻 About Me
 
 - 🌱 I'm currently learning full-stack development.
 - 💻 I'm exploring various technologies including HTML, CSS, JavaScript, Node.js, Express.js, React.js, Java, PHP, and MongoDB.
@@ -20,7 +20,7 @@ I'm a passionate software developer and tech enthusiast, currently diving into t
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![Vignesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-VigneshG&show_icons=true&theme=dark)
 
